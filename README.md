@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <h1>Hi there, I'm Marcos <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
+      <h1>Hi there, I'm Marcos </h1>
       <p>I am passionate about technology, games, and sports.</p>
       <h2> :dart: What I Do</h2>
       <ul>
